@@ -19,8 +19,8 @@ client.on("message", async (message) => {
 
     client.sendMessage(message.from, media, {
       sendMediaAsSticker: true,
-      stickerName: "Rorschach",
-      stickerAuthor: "Rorschach BOT",
+      stickerName: "Sirron",
+      stickerAuthor: "Sirron BOT",
     });
   }
 });
